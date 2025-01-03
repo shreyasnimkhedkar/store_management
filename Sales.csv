@@ -1,0 +1,3 @@
+SaleID,ProductID,QuantitySold,ProductLeft,SaleDate
+1,101,50,50,03-01-2025
+2,102,100,500,2025-01-03

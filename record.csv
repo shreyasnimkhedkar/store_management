@@ -1,0 +1,3 @@
+ProductID,ProductName,Quantity,PerUnitPrice,FullPrice
+101,shampoo,50,200.0,20000.0
+102,hair oil,500,150.0,90000.0
